@@ -1,0 +1,8 @@
+@inproceedings{REPO357,
+    author = "Liu, Shilong and Zeng, Zhaoyang and Ren, Tianhe and Li, Feng and Zhang, Hao and Yang, Jie and Jiang, Qing and Li, Chunyuan and Yang, Jianwei and Su, Hang and others",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "38--55",
+    title = "{Grounding dino: Marrying dino with grounded pre-training for open-set object detection}",
+    year = "2025"
+}
